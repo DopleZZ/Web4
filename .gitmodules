@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/DopleZZ/Web4_Front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/DopleZZ/Web4_back.git
